@@ -51,9 +51,9 @@ These atomic blocks were used to design targeted manual and UI test cases to val
 ## Files Included
 1.`Deedee Ozoh — Sprint 3 Sheets.xlsx`: Manual test cases for carsharing and Aero taxi features
 2.`Deedee Ozoh, Sprint 3 Project.pdf`: Decomposition of key functional requirements into atomic, testable blocks
+3. Screenshot not included*: For all 4 failed test cases, the screenshot described a blank white screen when accessing the Aero Taxi feature
 
 ## Highlights
 - Designed tests based on decomposed requirements using boundary value analysis and equivalence partitioning
 - Performed regression testing on the carsharing feature to ensure existing functionality remained intact after code changes
 - Discovered multiple bugs in the unreleased Aero Taxi feature; all 4 test cases failed due to the feature showing a blank white page instead of calculating and presenting the travel time and cost
-- 
